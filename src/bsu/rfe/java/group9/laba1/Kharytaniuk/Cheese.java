@@ -1,4 +1,4 @@
-package bsu.rfe.java.group9.laba2.Kharytaniuk;
+package bsu.rfe.java.group9.laba1.Kharytaniuk;
 
 public class Cheese extends Food {
     private double calories = 0;

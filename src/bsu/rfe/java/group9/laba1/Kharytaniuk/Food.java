@@ -1,6 +1,4 @@
-package bsu.rfe.java.group9.laba2.Kharytaniuk;
-
-import bsu.rfe.java.group9.laba2.Kharytaniuk.Nutritious;
+package bsu.rfe.java.group9.laba1.Kharytaniuk;
 
 import java.util.ArrayList;
 

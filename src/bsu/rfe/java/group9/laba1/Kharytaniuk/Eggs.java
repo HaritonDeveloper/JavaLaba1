@@ -1,6 +1,6 @@
-package bsu.rfe.java.group9.laba2.Kharytaniuk;
+package bsu.rfe.java.group9.laba1.Kharytaniuk;
 
-public class Eggs extends Food implements Nutritious{
+public class Eggs extends Food implements Nutritious {
     private String number = null;
     private double calories = 0;
 
